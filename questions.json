@@ -1,0 +1,99 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question": "Did You complete the previous rounds",
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 1,
+      "question": "What is the name of the mastermind? ",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 2,
+      "question": "Who changed the plans? ",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 3,
+      "question": "What was the first bank they were planning to rob?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 4,
+      "question": "What was the second bank they were planning to rob?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 5,
+      "question": "What was the third bank they were planning to rob?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 6,
+      "question": "Who suggested robbing Jwellery Shop ? ",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 7,
+      "question": "Who erased all the datas ? ",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    },
+    {
+      "id": 8,
+      "question": "What is the actual name of the guy who erased all the datas ? ",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "is_asked": false,
+      "is_correct": false,
+      "is_answered": false
+    }
+  ]
+}

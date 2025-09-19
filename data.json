@@ -1,0 +1,12 @@
+{
+    "user": {
+        "name": "",
+        "github": ""
+    },
+    "status": {
+        "is_completed": false,
+        "current_question": 0,
+        "attempts": 0,
+        "completed_questions": []
+    }
+}
