@@ -18,8 +18,7 @@ class QuestionsHelper():
     def current_question_index(self, index: int):
         if 0 <= index < self.total_questions:
             self._current_question_index = index
-        else:
-            raise IndexError("Question index out of range.")
+
     @property
     def current_question(self) -> dict[str, Any]:
         questions = self._file_handler.questions
