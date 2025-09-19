@@ -10,6 +10,8 @@ Your task is to report the criminals to the police.
 
 After finding out the criminals to report run `python report.py` command in terminal.
 
+>[!Note]
+> You have to use almost all of the commands you have learned till now to find out the criminals.
 ## Story
 
 There were 3 criminals who once tried to become rich quickly by robbing. First there was one mastermind, who planned something huge, but the other 2 guys said that this might be too risky, so we can do something small. Their intentions stayed the same, and they robbed a "--------". After 2 years one of them was caught, and they found a pendrive plugged into a laptop in his old appartment, which had one file in it, named `robbery.zip`. When the police tried to open it and explore what was inside, they could not find anything other than the `.git` folder and `README.md`, which had these contents.
